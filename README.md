@@ -7,6 +7,9 @@ Then we have used AWS services to build our automated pipeline to store and proc
 AWS S3: To store our data.
 
 
+AWS Lambda: To extract and transformed our data using Python
+
+
 AWS Trigger: To set the trigger when the pipeline should run.
 
 
